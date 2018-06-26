@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color: teal;
+  color: white;
+  font-size: large;
+}
+li{
+   list-style-type: none;
+}
+.panel{
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: seagreen;
+}
+iframe{
+  width: 99%;
+  height: 200px;
+  resize: both;
+}
